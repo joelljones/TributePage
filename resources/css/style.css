@@ -1,5 +1,4 @@
 body {
-  margin-top: 25px;
   background-color: #FCCC4F;
   background-image: url("../images/batman-background.jpg");
   background-size: 100%;
@@ -11,6 +10,10 @@ body {
 
 img {
   margin-bottom: 25px;
+}
+
+.container {
+  margin: 25px 0 25px 0;
 }
 
 @media (max-width: 768px) {
