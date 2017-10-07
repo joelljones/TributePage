@@ -1,0 +1,20 @@
+body {
+  margin-top: 25px;
+  background-color: #FCCC4F;
+  background-image: url("../images/batman-background.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+}
+
+img {
+  margin-bottom: 25px;
+}
+
+@media (max-width: 768px) {
+  body {
+    background-image: none;
+  }
+}
