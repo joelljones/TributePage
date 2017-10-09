@@ -16,7 +16,7 @@ img {
   margin: 25px 0 25px 0;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 767px) {
   body {
     background-image: none;
   }
